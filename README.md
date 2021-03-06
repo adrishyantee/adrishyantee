@@ -11,9 +11,9 @@
 
 -----
 
-- 🔭 I’m currently working on  [Healthfit] https://github.com/adrishyantee/healthfit
-- 🌱 I’m currently learning  [DSA]https://github.com/adrishyantee/myDSA
-- 👯 I’m looking to collaborate on  [Algo-Phantoms-Android]https://github.com/Algo-Phantoms/Algo-Phantoms-Android
+- 🔭 I’m currently working on  [Healthfit](https://github.com/adrishyantee/healthfit)
+- 🌱 I’m currently learning  [DSA](https://github.com/adrishyantee/myDSA)
+- 👯 I’m looking to collaborate on  [Algo-Phantoms-Android](https://github.com/Algo-Phantoms/Algo-Phantoms-Android)
 
------>
-https://github-readme-stats.vercel.app/api?username=adrishyantee&count_private=true&show_icons=true
+-----
+<img src="https://github-readme-stats.vercel.app/api?username=adrishyantee&count_private=true&show_icons=true" height="300" width="1000">
