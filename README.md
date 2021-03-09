@@ -13,4 +13,5 @@
 - 🌱 I’m currently learning  [DSA](https://github.com/adrishyantee/myDSA)
 - 👯 I’m looking to collaborate on  [Algo-Phantoms-Android](https://github.com/Algo-Phantoms/Algo-Phantoms-Android)
 -----
-<img src="https://github-readme-stats.vercel.app/api?username=adrishyantee&count_private=true&show_icons=true" height="300" width="600">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrishyantee&layout=compact&hide=html&theme=light" alt="adrishyantee" height="300" width="300"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=adrishyantee&count_private=true&show_icons=true" height="300" width="6300">
