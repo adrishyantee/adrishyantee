@@ -11,7 +11,7 @@
 -----
 - 🔭 I’m currently working on  [Healthfit](https://github.com/adrishyantee/healthfit)
 - 🌱 I’m currently learning  [DSA](https://github.com/adrishyantee/myDSA)
-- 👯 I’m looking to collaborate on  [Algo-Phantoms-Android](https://github.com/Algo-Phantoms/Algo-Phantoms-Android)
+- 👯 I’m looking to collaborate on  [DocLense](https://github.com/smaranjitghose/DocLensed)
 -----
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrishyantee&layout=compact&hide=html&theme=light" alt="adrishyantee" width="400"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=adrishyantee&count_private=true&show_icons=true" height="200" width="400">
