@@ -9,7 +9,7 @@
   - Building Community Projects
   - Maintaining contribution streak on github!
 -----
-- 🔭 I’m currently working on  [Healthfit](https://github.com/adrishyantee/healthfit)
+- 🔭 I’m currently working on  [Resumie](https://github.com/DSCKGEC/Resumie)
 - 🌱 I’m currently learning  [DSA](https://github.com/adrishyantee/myDSA)
 - 👯 I’m looking to collaborate on  [DocLense](https://github.com/smaranjitghose/DocLense)
 -----
