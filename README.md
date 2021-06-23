@@ -11,7 +11,7 @@
   - Maintaining contribution streak on github!
 -----
 - 🔭 I’m currently working on  [Resumie](https://github.com/DSCKGEC/Resumie)
-- 🌱 I’m currently learning  [DSA](https://github.com/adrishyantee/myDSA) and CP (https://github.com/adrishyantee/myCP)
+- 🌱 I’m currently learning  [DSA](https://github.com/adrishyantee/myDSA) and [CP](https://github.com/adrishyantee/myCP)
 -----
 <br><br>
 <img align= "left" src="https://github.com/adrishyantee/github-stats/blob/master/generated/languages.svg" width= "400"/>
