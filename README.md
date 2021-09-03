@@ -14,5 +14,5 @@
 - 🌱 I’m currently learning  [DSA](https://github.com/adrishyantee/myDSA) and [CP](https://github.com/adrishyantee/myCP)
 -----
 <br><br>
-<img align= "left" src=""https://github.com/adrishyantee/github-stats/blob/master/generated/languages.svg" width= "400"/>
+<img align= "left" src="https://github.com/adrishyantee/github-stats/blob/master/generated/languages.svg" width= "400">
 <img align="right" src="https://github.com/adrishyantee/github-stats/blob/master/generated/overview.svg" width="400">
